@@ -1,0 +1,26 @@
+.panel{
+    background-color: black;
+    height: 40px;
+    margin-bottom: 10px;
+
+
+}
+.panel ul{
+    display: flex;
+    align-items:center;
+}
+.panel ul li{
+    list-style-type: none;
+    margin: 20px;
+
+
+}
+.panel ul li a{
+    text-decoration: none;
+    color: white;
+}
+.container{
+        margin-bottom: 8px;
+        border: 2px solid gray;
+        width: fit-content;
+}
